@@ -1,2 +1,2 @@
 # college-planner
-This code helps incoming freshman students time management skills with courses.
+This code helps incoming freshman students time management skills with courses. Students are able to add their courses including their assingments and professor details. They can create customizable reminders for upcoming classes and deadlines. They can also track their overall progress of completed or oending assingments, enable quick access to materials implemented into the courses, and more!
